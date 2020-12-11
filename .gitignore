@@ -1,0 +1,8 @@
+/node_modules
+/src/*.css
+/*.js
+/*.js.map
+/*.mjs
+/*.mjs.map
+/*.css
+/.DS_Store
